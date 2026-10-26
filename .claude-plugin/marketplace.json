@@ -1,0 +1,16 @@
+{
+  "name": "brownie-plugins",
+  "description": "월부 brownie 콘솔을 Claude Code 에서 쓰는 플러그인",
+  "owner": {
+    "name": "weolbu",
+    "url": "https://brownie.im"
+  },
+  "plugins": [
+    {
+      "name": "brownie",
+      "source": "./plugins/brownie",
+      "description": "brownie 콘솔을 내 운영자 권한으로 조회 · 조작한다",
+      "category": "productivity"
+    }
+  ]
+}

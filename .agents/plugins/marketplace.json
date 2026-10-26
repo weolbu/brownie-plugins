@@ -1,0 +1,20 @@
+{
+  "name": "brownie-plugins",
+  "interface": {
+    "displayName": "brownie"
+  },
+  "plugins": [
+    {
+      "name": "brownie",
+      "source": {
+        "source": "local",
+        "path": "./plugins/brownie"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

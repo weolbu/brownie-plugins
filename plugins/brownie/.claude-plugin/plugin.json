@@ -1,0 +1,14 @@
+{
+  "name": "brownie",
+  "displayName": "brownie",
+  "version": "0.1.0",
+  "description": "brownie 콘솔을 내 운영자 권한으로 조회 · 조작한다",
+  "author": {
+    "name": "weolbu",
+    "url": "https://brownie.im"
+  },
+  "homepage": "https://brownie.im/docs/mcp/",
+  "repository": "https://github.com/weolbu/brownie-plugins",
+  "keywords": ["brownie", "campaign", "segment", "messaging", "console"],
+  "mcpServers": "./mcp.json"
+}
