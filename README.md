@@ -48,8 +48,9 @@ Codex:
 
 ```bash
 codex mcp add brownie --url https://console-api.brownie.im/mcp
-codex mcp login brownie
 ```
+
+추가하면 바로 브라우저가 열려 로그인한다.
 
 ## 로그인
 
